@@ -1,3 +1,5 @@
+![Description of Image](assets/home.png)
+
 # TrabahoLocal - ERP & Local Job Portal 🚀
 
 TrabahoLocal is a localized Enterprise Resource Planning (ERP) system and job portal built in VB.NET. It connects local talent with employers while providing administrators with powerful oversight, verification workflows, and financial tracking tools.
@@ -13,10 +15,7 @@ TrabahoLocal is a localized Enterprise Resource Planning (ERP) system and job po
 ## 📸 System Screenshots
 
 ### 1. Modern Split-Screen Login
-*(Drag and drop your login screenshot here, or use: `![Login Screen](images/login.png)`)*
-
-### 2. Admin ERP Dashboard
-*(Drag and drop your admin screenshot here, or use: `![Admin Dashboard](images/admin.png)`)*
+![Login Screen](assets/login_hero.png)
 
 ## 🛠️ Technology Stack
 * **Language:** Visual Basic .NET (VB.NET)
@@ -30,5 +29,3 @@ TrabahoLocal is a localized Enterprise Resource Planning (ERP) system and job po
 3. Open the `.sln` file in Visual Studio.
 4. Update the connection string in your database module to match your local MySQL credentials.
 5. Click **Start** to compile and run.
-
-![Description of Image](assets/home.png)

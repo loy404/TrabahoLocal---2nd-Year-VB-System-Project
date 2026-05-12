@@ -30,3 +30,5 @@ TrabahoLocal is a localized Enterprise Resource Planning (ERP) system and job po
 3. Open the `.sln` file in Visual Studio.
 4. Update the connection string in your database module to match your local MySQL credentials.
 5. Click **Start** to compile and run.
+
+![Description of Image](assets/home.png)

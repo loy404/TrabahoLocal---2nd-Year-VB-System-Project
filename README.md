@@ -14,8 +14,11 @@ TrabahoLocal is a localized Enterprise Resource Planning (ERP) system and job po
 
 ## 📸 System Screenshots
 
-### 1. Modern Split-Screen Login
-![Login Screen](assets/login_hero.png)
+### 1. Split-Screen Login
+![Login Screen](assets/login.png)
+
+### 2. Split-Screen Register
+![Login Screen](assets/register.png)
 
 ## 🛠️ Technology Stack
 * **Language:** Visual Basic .NET (VB.NET)
